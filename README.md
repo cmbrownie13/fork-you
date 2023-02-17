@@ -1,2 +1,2 @@
 # fork-you
-forking plab
+forking lab
